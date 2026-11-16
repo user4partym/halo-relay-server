@@ -1,0 +1,1 @@
+{"description":"User's own CORS relay for the Halo Admin Page. Forwards only to halo-voice.com /admin-api and /ruoyi-api, returns a single CORS header. No credentials are logged or stored.","engines":{"node":">=18"},"main":"server.js","name":"halo-relay","scripts":{"start":"node server.js"},"version":"1.0.0"}
